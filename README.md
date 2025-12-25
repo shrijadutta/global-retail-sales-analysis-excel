@@ -1,5 +1,5 @@
 # Global Retail Sales Analysis
-![Dashboard Screenshot](https://github.com/shrijadutta/global-retail-sales-performance-dashboard-excel/blob/main/Global_Retail_Sales_Performance_Dashboard.png?raw=true)
+![Dashboard Screenshot](https://github.com/shrijadutta/global-retail-sales-analysis-excel/blob/main/Global_Retail_Sales_Performance_Dashboard.png?raw=true)
 *Figure: Dashboard Overview*
 
 ## Project Overview
